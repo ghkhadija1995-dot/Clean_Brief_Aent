@@ -5,3 +5,4 @@ langgraph
 pydantic
 pandas
 openpyxl
+charset-normalizer
