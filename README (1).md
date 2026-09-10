@@ -18,7 +18,6 @@
 
 ## 🖥️ لقطة من الواجهة
 
-> أضف لقطة شاشة للتطبيق هنا بعد نشره، مثال:
 <img width="1174" height="476" alt="image" src="https://github.com/user-attachments/assets/fe71f530-360f-4f33-885b-949f44859240" />
 
 ---
